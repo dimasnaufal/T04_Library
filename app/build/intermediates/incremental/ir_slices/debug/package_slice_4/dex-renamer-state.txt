@@ -1,0 +1,4 @@
+#Mon Oct 08 23:55:31 ICT 2018
+base.0=F\:\\Kuliah\\smst7\\Android\\project\\Platform4_Libary\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

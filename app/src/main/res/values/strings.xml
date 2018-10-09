@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Platform4_Libary</string>
+    <string name="no_emoji">Emoji cant detect</string>
+    <string name="no_faces_message">no face message</string>
+</resources>
